@@ -1,0 +1,2 @@
+1- add files to master 2- clone master into develop branch 3- create other branches 4- hotfix 5- hotfix to master 6- hotfix to Develop 7-Develop to feature 8-update develop 9-feature3 to develop
+10- develop to release 11-update release 12- release to develop
